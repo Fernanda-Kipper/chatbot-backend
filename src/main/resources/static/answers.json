@@ -1,0 +1,49 @@
+{
+  "faq": [
+    {
+      "keywords": ["criação", "fundação", "inauguração", "criacao", "fundacao", "inauguracao"],
+      "answer": "O Museu do Doce de Pelotas foi inaugurado em 2004, com o objetivo de preservar e divulgar a história da tradição doceira da cidade."
+    },
+    {
+      "keywords": ["objetivo", "propósito", "proposito"],
+      "answer": "O objetivo do Museu do Doce é preservar a memória da tradição doceira de Pelotas, reconhecida como patrimônio cultural imaterial, e divulgar essa história para o público."
+    },
+    {
+      "keywords": ["prédio", "arquitetura", "predio"],
+      "answer": "O Museu do Doce está situado em um prédio histórico no centro de Pelotas, que foi cuidadosamente restaurado para abrigar o museu. A arquitetura do prédio é um destaque, com detalhes que remetem à época áurea da produção de doces na cidade."
+    },
+    {
+      "keywords": ["horário", "funcionamento", "aberto", "horario"],
+      "answer": "O Museu do Doce de Pelotas funciona de terça a sexta-feira, das 9h às 18h, e aos sábados e domingos, das 14h às 18h. O museu está fechado às segundas-feiras."
+    },
+    {
+      "keywords": ["ingresso", "entrada", "valor"],
+      "answer": "A entrada para o Museu do Doce é gratuita. No entanto, é recomendável verificar se há alguma alteração nos preços ou nas políticas de entrada antes de planejar sua visita."
+    },
+    {
+      "keywords": ["prefeito", "politico", "prefeitura", "político"],
+      "answer": "O prefeito de Pelotas na época da criação do Museu do Doce em 2004 era Bernardo de Souza."
+    },
+    {
+      "keywords": ["cômodos", "quantidade", "comodos"],
+      "answer": "O número exato de cômodos no Museu do Doce pode variar dependendo das exposições e da configuração atual. Recomenda-se entrar em contato com o museu para obter informações específicas."
+    },
+    {
+      "keywords": ["peças", "exibidas"],
+      "answer": "O número de peças exibidas no Museu do Doce pode variar dependendo das exposições temporárias e permanentes. Para informações atualizadas, é aconselhável visitar o site oficial do museu ou entrar em contato diretamente."
+    },
+    {
+      "keywords": ["estilo arquitetônico", "prédio", "arquitetura", "estilo arquitetonico"],
+      "answer": "O prédio do Museu do Doce é um exemplo da arquitetura neoclássica, característica de muitos edifícios históricos em Pelotas."
+    },
+    {
+      "keywords": ["arquiteto", "prédio", "predio"],
+      "answer": "As informações específicas sobre o arquiteto responsável pelo prédio do Museu do Doce não estão prontamente disponíveis. É recomendável entrar em contato com o museu para obter detalhes sobre a história arquitetônica do edifício."
+    },
+    {
+      "keywords": ["endereço", "local", "chegar"],
+      "answer": "O Museu está localizado no centro da cidade de Pelotas, no endereço Praça Coronel Pedro Osório, Casarão 8 - Centro, Pelotas - RS, 96015-010"
+    }
+  ],
+  "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato com a secretaria do Museu do Doce através do número: (53) 3284-4322"
+}
