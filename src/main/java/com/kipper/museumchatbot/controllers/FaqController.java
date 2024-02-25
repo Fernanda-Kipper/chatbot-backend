@@ -1,15 +1,15 @@
 package com.kipper.museumchatbot.controllers;
 
+import com.kipper.museumchatbot.dto.MessageRequest;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/chat")
 public class FaqController {
-    @GetMapping
-    public ResponseEntity<String> answerQuestion(){
-        return ResponseEntity.ok("oi");
+    @PostMapping
+    public ResponseEntity<String> answerQuestion(@RequestBody MessageRequest request){
+        System.out.println(request.message());
+        return ResponseEntity.ok("oi deu certo");
     }
 }
