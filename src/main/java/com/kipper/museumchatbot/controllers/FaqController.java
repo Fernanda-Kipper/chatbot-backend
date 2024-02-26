@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/api/chat")
 public class FaqController {
-    private FaqService faqService;
+    final private FaqService faqService;
 
     public FaqController(FaqService faqService){
         this.faqService = faqService;
