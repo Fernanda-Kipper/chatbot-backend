@@ -3,7 +3,6 @@ package com.kipper.museumchatbot.controllers;
 import com.kipper.museumchatbot.dto.MessageRequest;
 import com.kipper.museumchatbot.dto.MessageResponse;
 import com.kipper.museumchatbot.services.FaqService;
-import com.kipper.museumchatbot.utils.FaqAnswers;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
